@@ -8,5 +8,5 @@ here we have 1 master 1 slave 3 sentinels
                                 slave
                                   |
                      -----------------------------
-                     |             |             |
+                     |            |              |
                   sentinel      sentinel      sentinel
